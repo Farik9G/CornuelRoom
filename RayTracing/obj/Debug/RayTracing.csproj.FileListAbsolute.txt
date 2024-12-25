@@ -1,0 +1,10 @@
+D:\Programming\CPP\ind2\RayTracing\bin\Debug\RayTracing.exe.config
+D:\Programming\CPP\ind2\RayTracing\bin\Debug\RayTracing.exe
+D:\Programming\CPP\ind2\RayTracing\bin\Debug\RayTracing.pdb
+D:\Programming\CPP\ind2\RayTracing\obj\Debug\RayTracing.csproj.AssemblyReference.cache
+D:\Programming\CPP\ind2\RayTracing\obj\Debug\RayTracing.Form1.resources
+D:\Programming\CPP\ind2\RayTracing\obj\Debug\RayTracing.Properties.Resources.resources
+D:\Programming\CPP\ind2\RayTracing\obj\Debug\RayTracing.csproj.GenerateResource.cache
+D:\Programming\CPP\ind2\RayTracing\obj\Debug\RayTracing.csproj.CoreCompileInputs.cache
+D:\Programming\CPP\ind2\RayTracing\obj\Debug\RayTracing.exe
+D:\Programming\CPP\ind2\RayTracing\obj\Debug\RayTracing.pdb
